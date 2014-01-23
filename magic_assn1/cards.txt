@@ -1,0 +1,26 @@
+land
+The Great Plains
+The Great Plains are a broad expanse of flat land, much of it covered in prairie, steppe and grassland, which lies west of the Mississippi River.
+10
+3
+100
+
+instant
+Attack++
+Allows the player to gain 10% damage for creature cards for one turn.
+2
+19
+
+enchantment
+Expectro Petronum
+This card allows the player to remove one card from the graveyard each turn.
+10
+13
+
+creature
+Wolfie
+GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+3
+10
+999
+92

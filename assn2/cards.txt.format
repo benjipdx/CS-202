@@ -1,0 +1,37 @@
+format:
+
+land card:
+
+type
+name
+description
+mana cost
+color
+mana gain
+
+instant card:
+
+type
+name
+description
+mana cost
+effect
+
+enchantment card:
+
+type
+name
+description
+mana cost
+effect
+
+
+creature card:
+
+type
+name
+description
+mana cost
+defense
+damage
+ability
